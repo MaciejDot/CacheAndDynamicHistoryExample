@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CachePipelineExample.Cache\CachePipelineExample.Cache.csproj" />
+    <ProjectReference Include="..\CachePipelineExample.Core\CachePipelineExample.Core.csproj" />
+    <ProjectReference Include="..\CachePipelineExampleContracts\CachePipelineExampleContracts.csproj" />
+  </ItemGroup>
+
+</Project>

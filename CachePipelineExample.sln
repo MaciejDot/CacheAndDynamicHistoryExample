@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachePipelineExample", "CachePipelineExample\CachePipelineExample.csproj", "{B03D7376-0160-4D86-BC07-DE8B212A633F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachePipelineExample.Cache", "CachePipelineExample.Cache\CachePipelineExample.Cache.csproj", "{CC7CF412-5333-4756-A681-818383FBB0B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachePipelineExample.Core", "CachePipelineExample.Core\CachePipelineExample.Core.csproj", "{FA7F0FC2-9AB1-459E-A537-F26CFBAE2C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachePipelineExampleDomain", "CachePipelineExampleDomain\CachePipelineExampleDomain.csproj", "{19A76B5E-B498-4A3C-AA8C-D259685B05E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachePipelineExampleContracts", "CachePipelineExampleContracts\CachePipelineExampleContracts.csproj", "{1BDE3F80-0C80-4BDE-8FDF-A919EC35F5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03D7376-0160-4D86-BC07-DE8B212A633F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03D7376-0160-4D86-BC07-DE8B212A633F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03D7376-0160-4D86-BC07-DE8B212A633F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03D7376-0160-4D86-BC07-DE8B212A633F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7CF412-5333-4756-A681-818383FBB0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7CF412-5333-4756-A681-818383FBB0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7CF412-5333-4756-A681-818383FBB0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7CF412-5333-4756-A681-818383FBB0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7F0FC2-9AB1-459E-A537-F26CFBAE2C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7F0FC2-9AB1-459E-A537-F26CFBAE2C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7F0FC2-9AB1-459E-A537-F26CFBAE2C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7F0FC2-9AB1-459E-A537-F26CFBAE2C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A76B5E-B498-4A3C-AA8C-D259685B05E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A76B5E-B498-4A3C-AA8C-D259685B05E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A76B5E-B498-4A3C-AA8C-D259685B05E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A76B5E-B498-4A3C-AA8C-D259685B05E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDE3F80-0C80-4BDE-8FDF-A919EC35F5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDE3F80-0C80-4BDE-8FDF-A919EC35F5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDE3F80-0C80-4BDE-8FDF-A919EC35F5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDE3F80-0C80-4BDE-8FDF-A919EC35F5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {491EE8DA-438A-4482-A675-8563852CB67B}
+	EndGlobalSection
+EndGlobal
